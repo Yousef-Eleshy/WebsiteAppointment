@@ -2,3 +2,8 @@
 	path = dinamohammed/SutherLand
 	url = git@github.com:dinamohammed/SutherLand.git
 	branch = WebsiteAppointment
+
+[submodule "Yousef-Eleshy/SchoolAppointment"]
+	path = Yousef-Eleshy/SchoolAppointment
+	url = git@github.com:Yousef-Eleshy/SchoolAppointment.git
+	branch = WebsiteAppointment
